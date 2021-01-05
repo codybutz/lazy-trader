@@ -11,7 +11,7 @@
     },
     "devDependencies": {
         "@fortawesome/fontawesome-free": "^5.12.1",
-        "axios": "^0.19",
+        "axios": "^0.21",
         "cross-env": "^5.1",
         "laravel-mix": "^5.0.1",
         "resolve-url-loader": "^2.3.1",
